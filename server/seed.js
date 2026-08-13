@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 const { createDecisionFromUpload } = require("./src/controllers/decisionController");
-const applicant = require("./sample-applicant.json");
+const applicant = require("../sample-applicant.json");
 
 async function seed() {
   try {
