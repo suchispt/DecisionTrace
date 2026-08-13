@@ -1,0 +1,10 @@
+{
+  "applicant": {
+    "employmentYears": 5
+  },
+  "loan": {
+    "amount": 500000,
+    "monthlyIncome": 75000
+  },
+  "creditScore": 780
+}
